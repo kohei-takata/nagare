@@ -1,0 +1,18 @@
+
+typeof.js:43:19,26: class type: MyClass1
+This type is incompatible with
+typeof.js:11:7,14: MyClass1
+
+typeof.js:53:30,37: MyClass2
+This type is incompatible with
+typeof.js:45:7,14: class type: MyClass2
+
+typeof.js:61:26,31: string
+This type is incompatible with
+typeof.js:59:14,19: number
+
+typeof.js:73:15,25: numberAlias
+type referenced from value position
+typeof.js:67:6,16: type numberAlias
+
+Found 4 errors
