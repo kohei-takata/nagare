@@ -1,5 +1,5 @@
 # nagare
-nagare is a fork of flow.
+nagare is a fork of [flow](https://github.com/facebook/flow).
 
 # Flow
 
